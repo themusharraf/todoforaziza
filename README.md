@@ -29,7 +29,6 @@ TODO botga xush kelibsiz! Quyidagi buyruqlarni ishlatishingiz mumkin:
 ---
 
 Bu buyruqlar orqali siz vazifalaringizni boshqarishingiz mumkin.  
-Har qanday savollar bo‘lsa, men yordam berishga tayyorman! 😊
 
 ## Foydalanish bo‘yicha ko‘rsatmalar
 1. Telegram botingizni sozlang va yuqoridagi buyruqlardan foydalaning.
